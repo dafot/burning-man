@@ -4,28 +4,4 @@
 
 @import "about.css";
 
-.footer {
-  font-family: "Open Sans", sans-serif;
-  font-size: 1.6rem;
-  line-height: 2.6rem;
-  padding: 11.4rem 0;
-}
-.footer__container {
-  
-}
-
-.footer__items {
-  display: flex;
-  gap: 5.5rem;
-  
-}
-.footer__item {
-}
-.footer__item-txt {
-}
-@media (max-width: 900px) {
-  .footer {padding: 6rem 0;}
-  .about {
-    padding: 8rem;
-  }
-}
+@import "footer.css";
